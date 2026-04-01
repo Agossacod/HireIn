@@ -69,13 +69,13 @@
 
 <h4>3.4 Fonctionnalités administratives</h4>
 
-<p><strong>Gestion des utilisateurs :</p>
+<p><strong>Gestion des utilisateurs :</strong></p>
 <ul>
 <li>	Administration des comptes étudiants et entreprises. </li>
 
 <li>	Modération des contenus publiés. </li>
 </ul>
-<p>Statistiques et rapports :</p>
+<p><strong>Statistiques et rapports :<strong></p>
 
 <p>Tableau de bord pour suivre l’évolution des candidatures, le taux de satisfaction des utilisateurs et les offres populaires.</p>
 
@@ -89,7 +89,7 @@
 <p>Technologies : HTML, CSS, JavaScript 
 <h4>4.2 Backend</h4>
 <ul> 
-<li><strong>	Technologies : </strong>Node.js ou PHP </li>
+<li><strong>	Technologies : </strong> Node.js ou PHP </li>
 <li><strong>Base de données :</strong> MySQL. </li>
 <li><strong>Hébergement : </strong> </li>
 <li><strong>Sécurité :</strong> SSL pour sécuriser la base de données </li>
@@ -103,9 +103,9 @@
 <h4>5.1 Design de l'interface</h4>
 
 <p><strong>Simplicité et ergonomie :</strong> interface claire et intuitive avec une navigation facile. Accessible sur les navigateurs web comme Chrome, Firefox et Microsoft Edge.</p>
-<p><strong>Identité visuelle :</strong> création d’un design propre et moderne qui reflète le caractère professionnel de l’application tout en restant accessible.</p>
+<p>Identité visuelle : création d’un design propre et moderne qui reflète le caractère professionnel de l’application tout en restant accessible.</p>
 
 <h4>5.2 Parcours utilisateur</h4>
 
-<p><strong>Étudiant :</strong> inscription rapide, création de profil en quelques étapes, recherche d’offres avec des filtres précis, candidatures faciles.</p>
-<p><strong>Entreprise : </strong>processus de publication d’offres rapide et simple, gestion facile des candidatures.</p>
+<p>Étudiant : inscription rapide, création de profil en quelques étapes, recherche d’offres avec des filtres précis, candidatures faciles.</p>
+<p>Entreprise : processus de publication d’offres rapide et simple, gestion facile des candidatures.</p>
