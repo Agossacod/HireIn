@@ -18,7 +18,7 @@
 <li>	<strong>Entreprise :</strong> à la recherche de talents pour des stages, des missions en CDD et des emplois à temps partiel rémunérés. </li>
 </ul>
 
-<h3>3. Fonctionnalités principales attendues</h3>
+<h3>3. Fonctionnalités principales</h3>
    
 <h4>3.1 Pour les étudiants</h4>
 
