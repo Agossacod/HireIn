@@ -11,7 +11,7 @@
 <li>  Atteindre 5 000 utilisateurs actifs (étudiants + diplômés) avant fin 2030 </li>
 <li>	Permettre à plus de 500 étudiants dans le besoin, de trouver des jobs étudiants rémunérés en parallèle de leur étude. </li>
 </ul>
-<h3>2. Public cible du projet</h3>
+<h3>2. Public cible</h3>
 <ul>
 <li>	<strong>Etudiants :</strong> cherchant des stages, des emplois à temps partiel ou des expériences professionnelles. </li>
 <li>	<strong>Jeunes diplômés :</strong> à la recherche de leur premier emploi ou d’un CDD. </li>
