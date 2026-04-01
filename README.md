@@ -5,17 +5,17 @@
 
 <h3>1. Objectif du projet</h3>
 <p>Notre objectif est donc de développer une application web pour connecter les étudiants et les entreprises, afin de faciliter l’accès aux stages, CDD ou jobs étudiants. Il consiste à offrir une solution efficace pour aider les étudiants à trouver des opportunités professionnelles rapidement tout en permettant aux entreprises de recruter facilement des talents jeunes et dynamiques.</p>
-<p>Nos objectifs spécifiques :</p>
+<p><strong>Nos objectifs spécifiques :</strong></p>
 <ul>
-<li>•	Réduire le temps moyen de recherche de stage  </li>
-<li>•	Atteindre 5 000 utilisateurs actifs (étudiants + diplômés) avant fin 2030 </li>
-<li>•	Permettre à plus de 500 étudiants dans le besoin, de trouver des jobs étudiants rémunérés en parallèle de leur étude. </li>
+<li>	Réduire le temps moyen de recherche de stage  </li>
+<li>  Atteindre 5 000 utilisateurs actifs (étudiants + diplômés) avant fin 2030 </li>
+<li>	Permettre à plus de 500 étudiants dans le besoin, de trouver des jobs étudiants rémunérés en parallèle de leur étude. </li>
 </ul>
 <h3>2. Public cible du projet</h3>
 <ul>
-<li>•	Etudiants : cherchant des stages, des emplois à temps partiel ou des expériences professionnelles. </li>
-<li>•	Jeunes diplômés : à la recherche de leur premier emploi ou d’un CDD. </li>
-<li>•	Entreprise : à la recherche de talents pour des stages, des missions en CDD et des emplois à temps partiel rémunérés. </li>
+<li>	<strong>Etudiants :</strong> cherchant des stages, des emplois à temps partiel ou des expériences professionnelles. </li>
+<li>	<strong>Jeunes diplômés :</strong> à la recherche de leur premier emploi ou d’un CDD. </li>
+<li>	<strong>Entreprise :</strong> à la recherche de talents pour des stages, des missions en CDD et des emplois à temps partiel rémunérés. </li>
 </ul>
 
 <h3>3. Fonctionnalités principales attendues</h3>
@@ -26,53 +26,54 @@
 
 <p>Gestion de profil :</p>
 <ul>
-<li>•	Candidat(e)s : création d'un profil étudiant avec informations personnelles, formations et compétences. </li>
+<li>	Candidat(e)s : création d'un profil étudiant avec informations personnelles, formations et compétences. </li>
 
-<li>•	Fonctionnalités de soumission de candidature en ligne (CV et lettre de motivation). </li>
+<li>	Fonctionnalités de soumission de candidature en ligne (CV et lettre de motivation). </li>
 
-<li>•	Possibilité d’ajouter des projets réalisés, des stages précédents. </li>
+<li>	Possibilité d’ajouter des projets réalisés, des stages précédents. </li>
 </ul>
 
 <p>Recherche de jobs/stages :</p>
 <ul>
-<li>•	Moteur de recherche filtrable par type de contrat (stage, CDD, job étudiant), localisation (ville, commune), domaine. </li>
+<li>	Moteur de recherche filtrable par type de contrat (stage, CDD, job étudiant), localisation (ville, commune), domaine. </li>
 
-<li>•	Alertes par email ou notification lorsqu’une offre correspondant à leur profil est publiée. </li>
+<li>	Alertes par email ou notification lorsqu’une offre correspondant à leur profil est publiée. </li>
 </ul>
 </p>Candidatures :</p>
 <ul>
-<li>•	Soumettre des candidatures en ligne pour les offres de stage/job. </li>
+<li>	Soumettre des candidatures en ligne pour les offres de stage/job. </li>
 
-<li>•	Espace de messagerie via email </li>
+<li>	Espace de messagerie via email </li>
 </ul>
 <h4>3.2 Pour les entreprises</h4>
 
-<p>Inscription/Authentification et gestion de profil entreprise :</p>
+<p><strong>Inscription/Authentification et gestion de profil entreprise :</strong></p>
 <ul>
-<li>•	Création d’un profil entreprise, avec description de l’entreprise, secteur d’activité, coordonnées, et offre d’emploi. </li>
+<li>	Création d’un profil entreprise, avec description de l’entreprise, secteur d’activité, coordonnées, et offre d’emploi. </li>
 
-<li>•	Publication d'offres de stage, CDD, ou job étudiant. </li>
+<li>	Publication d'offres de stage, CDD, ou job étudiant. </li>
 
-<li>•	Option pour automatiser le renouvellement d’offres. </li>
+<li>	Option pour automatiser le renouvellement d’offres. </li>
 </ul>
 
-Gestion des candidatures :</p>
+<strong>Gestion des candidatures :</strong></p>
 <ul>
-<li>•	Visualisation des candidatures reçues. </li>
+<li>	Visualisation des candidatures reçues. </li>
 
-<li>•	Communication avec les candidats (via email). </li>
+<li>	Communication avec les candidats (via email). </li>
+</ul>
 
 <h4>3.3 Détails sur les offres</h4>
-</ul>
+
 <p>Une page est dédiée à chaque offre avec description de poste, compétences requises, date limite de candidature et les informations sur l’entreprise d’accueil.</p>
 
 <h4>3.4 Fonctionnalités administratives</h4>
 
-<p>Gestion des utilisateurs :</p>
+<p><strong>Gestion des utilisateurs :</p>
 <ul>
-<li>•	Administration des comptes étudiants et entreprises. </li>
+<li>	Administration des comptes étudiants et entreprises. </li>
 
-<li>•	Modération des contenus publiés. </li>
+<li>	Modération des contenus publiés. </li>
 </ul>
 <p>Statistiques et rapports :</p>
 
@@ -88,10 +89,10 @@ Gestion des candidatures :</p>
 <p>Technologies : HTML, CSS, JavaScript 
 <h4>4.2 Backend</h4>
 <ul> 
-<li>•	Technologies : Node.js ou PHP </li>
-<li>•	Base de données : MySQL. </li>
-<li>•	Hébergement :  </li>
-<li>•	Sécurité : SSL pour sécuriser la base de données </li>
+<li><strong>	Technologies : </strong>Node.js ou PHP </li>
+<li><strong>Base de données :</strong> MySQL. </li>
+<li><strong>Hébergement : </strong> </li>
+<li><strong>Sécurité :</strong> SSL pour sécuriser la base de données </li>
 </ul>
 <h4>4.3 Sécurité</h4>
 
@@ -101,10 +102,10 @@ Gestion des candidatures :</p>
 
 <h4>5.1 Design de l'interface</h4>
 
-<p>Simplicité et ergonomie : interface claire et intuitive avec une navigation facile. Accessible sur les navigateurs web comme Chrome, Firefox et Microsoft Edge.</p>
-<p>Identité visuelle : création d’un design propre et moderne qui reflète le caractère professionnel de l’application tout en restant accessible.</p>
+<p><strong>Simplicité et ergonomie :</strong> interface claire et intuitive avec une navigation facile. Accessible sur les navigateurs web comme Chrome, Firefox et Microsoft Edge.</p>
+<p><strong>Identité visuelle :</strong> création d’un design propre et moderne qui reflète le caractère professionnel de l’application tout en restant accessible.</p>
 
 <h4>5.2 Parcours utilisateur</h4>
 
-<p>Étudiant : inscription rapide, création de profil en quelques étapes, recherche d’offres avec des filtres précis, candidatures faciles.</p>
-<p>Entreprise : processus de publication d’offres rapide et simple, gestion facile des candidatures.</p>
+<p><strong>Étudiant :</strong> inscription rapide, création de profil en quelques étapes, recherche d’offres avec des filtres précis, candidatures faciles.</p>
+<p><strong>Entreprise : </strong>processus de publication d’offres rapide et simple, gestion facile des candidatures.</p>
