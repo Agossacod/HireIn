@@ -8,7 +8,7 @@
 <p><strong>Nos objectifs spécifiques :</strong></p>
 <ul>
 <li>	Réduire le temps moyen de recherche de stage  </li>
-<li>  Atteindre 5 000 utilisateurs actifs (étudiants + diplômés) avant fin 2030 </li>
+<li>  Atteindre 5 000 utilisateurs actifs (étudiants, entreprises + diplômés) d'ici 2030 </li>
 <li>	Permettre à plus de 500 étudiants dans le besoin, de trouver des jobs étudiants rémunérés en parallèle de leur étude. </li>
 </ul>
 <h3>2. Public cible</h3>
