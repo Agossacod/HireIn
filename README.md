@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ProjectHI
 App web 
 =======
@@ -49,6 +48,8 @@ Option XAMPP (phpMyAdmin):
 - Ouvrir http://localhost/phpmyadmin
 - Utiliser les memes identifiants ci-dessus
 
+
+# HireIn
 <h2>Application web « HireIn : Stage, Job étudiant, CDD »</h2>
 
 <p>Le marché de l’emploi au Bénin présente un défi particulier pour les étudiants et les jeunes diplômés qui ont souvent des difficultés à accéder aux opportunités de stages, CDD et emplois étudiants. Sachant qu’une expérience professionnelle ou la clôture d’un cicle universitaire passe d’abord par un stage en entreprise, il devient impératif de résoudre cette problématique pour faciliter aux jeunes comme nous, une immersion sans stress dans la sphère professionnelle en entreprise partout au Bénin. </p>
@@ -58,7 +59,9 @@ Option XAMPP (phpMyAdmin):
 <p><strong>Nos objectifs spécifiques :</strong></p>
 <ul>
 <li>	Réduire le temps moyen de recherche de stage  </li>
-<li>  Atteindre 5 000 utilisateurs actifs (étudiants + diplômés) d'ici 2035 </li>
+
+<li>  Atteindre 5 000 utilisateurs actifs (étudiants, entreprises + diplômés) d'ici 2035 </li>
+
 <li>	Permettre à plus de 500 étudiants dans le besoin, de trouver des jobs étudiants rémunérés en parallèle de leur étude. </li>
 </ul>
 <h3>2. Public cible</h3>
@@ -159,4 +162,4 @@ Option XAMPP (phpMyAdmin):
 
 <p>Étudiant : inscription rapide, création de profil en quelques étapes, recherche d’offres avec des filtres précis, candidatures faciles.</p>
 <p>Entreprise : processus de publication d’offres rapide et simple, gestion facile des candidatures.</p>
->>>>>>> 24f92b7 (Premier commit)
+
