@@ -1,0 +1,9 @@
+.DS_Store
+.env
+/vendor
+/node_modules
+analyse.md
+architecture.md
+cahier-de-charges.md
+methodologie.md
+guide-architecture-projet.md
